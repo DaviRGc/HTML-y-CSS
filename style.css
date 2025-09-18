@@ -141,4 +141,13 @@ form button:focus, form button:hover {
   background: linear-gradient(135deg, #4b525a, #d0d8da);
   transform: scale(1.03);
   outline: 2px solid #fff;
+
 }
+.FondoPersonaje {
+    width: 800px;
+    height: 600px;
+    background-image: url("IMAGENES/Fito.jpeg");
+    background-size: cover;
+    background-position: center;
+    border: 2px solid black;
+  }
